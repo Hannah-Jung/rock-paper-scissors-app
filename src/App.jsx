@@ -17,7 +17,8 @@ const choice ={
   },
   paper:{
     name:"Paper",
-    img:"https://www.paperpapers.com/media/catalog/product/cache/26af58b6178898faa120837a4d31a0be/f/a/faviniart-bristolwht-811.jpg"  
+    // img:"https://www.paperpapers.com/media/catalog/product/cache/26af58b6178898faa120837a4d31a0be/f/a/faviniart-bristolwht-811.jpg"  
+    img: "https://cdn11.bigcommerce.com/s-2i5mq6440u/images/stencil/2048x2048/products/3762/9095/PlasticPaper-CutSheet__18809.1597757191.png?c=2"
   },
   scissors:{
     name: "Scissors",
